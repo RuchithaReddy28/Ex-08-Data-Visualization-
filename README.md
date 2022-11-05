@@ -102,6 +102,20 @@ grid.add_legend()
 ```
 
 # OUPUT
+![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization-/blob/main/1.1.png?raw=true)
+![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization-/blob/main/1.2.png?raw=true)
+![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization-/blob/main/1.3.png?raw=true)
+![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization-/blob/main/1.4.png?raw=true)
+![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization-/blob/main/1.5.png?raw=true)
+![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization-/blob/main/1.6.png?raw=true)
+![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization-/blob/main/1.7.png?raw=true)
+![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization-/blob/main/1.8.png?raw=true)
+![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization-/blob/main/1.9.png?raw=true)
+![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization-/blob/main/1.10.png?raw=true)
+![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization-/blob/main/1.11.png?raw=true)
+![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization-/blob/main/1.12.png?raw=true)
+![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization-/blob/main/1.13.png?raw=true)
+![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization-/blob/main/1.14.png?raw=true)
 
 # RESULT:
   Data Visualization on a complex dataset and save the data to a file has been performed.
